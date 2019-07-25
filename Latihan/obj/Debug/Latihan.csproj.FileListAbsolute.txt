@@ -1,0 +1,13 @@
+C:\Users\amikom\source\repos\Latihan\Latihan\bin\Debug\Latihan.exe.config
+C:\Users\amikom\source\repos\Latihan\Latihan\bin\Debug\Latihan.exe
+C:\Users\amikom\source\repos\Latihan\Latihan\bin\Debug\Latihan.pdb
+C:\Users\amikom\source\repos\Latihan\Latihan\obj\Debug\Latihan.csprojAssemblyReference.cache
+C:\Users\amikom\source\repos\Latihan\Latihan\obj\Debug\Latihan.csproj.CoreCompileInputs.cache
+C:\Users\amikom\source\repos\Latihan\Latihan\obj\Debug\Latihan.exe
+C:\Users\amikom\source\repos\Latihan\Latihan\obj\Debug\Latihan.pdb
+D:\Tugas Kuliah S2\Pemrog\Last Responsi\Latihan\Latihan\bin\Debug\Latihan.exe.config
+D:\Tugas Kuliah S2\Pemrog\Last Responsi\Latihan\Latihan\obj\Debug\Latihan.exe
+D:\Tugas Kuliah S2\Pemrog\Last Responsi\Latihan\Latihan\obj\Debug\Latihan.pdb
+D:\Tugas Kuliah S2\Pemrog\Last Responsi\Latihan\Latihan\bin\Debug\Latihan.exe
+D:\Tugas Kuliah S2\Pemrog\Last Responsi\Latihan\Latihan\bin\Debug\Latihan.pdb
+D:\Tugas Kuliah S2\Pemrog\Last Responsi\Latihan\Latihan\obj\Debug\Latihan.csprojResolveAssemblyReference.cache
